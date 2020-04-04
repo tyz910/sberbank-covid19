@@ -1,0 +1,4 @@
+jupyter==1.0.0
+beautifulsoup4==4.8.2
+requests==2.23.0
+pandas==1.0.3

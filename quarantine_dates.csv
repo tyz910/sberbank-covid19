@@ -1,0 +1,100 @@
+,Country,Place,Start date,End date,Level
+0,Algeria,Algiers,Algiers,2020-04-14,City
+1,Algeria,Blida,2020-03-23,2020-04-14,City
+2,Argentina,,2020-03-19,2020-04-12,National
+3,Australia,,2020-03-23,2020-04-24,National
+4,Austria,,2020-03-16,2020-04-13,National
+5,Belgium,,2020-03-18,2020-04-18,National
+6,Bolivia,,2020-03-22,2020-04-14,National
+7,Botswana,,2020-04-02,2020-04-30,National
+8,Brazil,Santa Catarina,Santa Catarina,2020-04-08,State
+9,Brazil,São Paulo,2020-03-24,2020-04-07,State
+10,Chile,,2020-03-19,2020-04-14,National
+11,Colombia,,2020-03-25,2020-04-13,National
+12,Republic of the Congo,,2020-03-31,2020-04-20,National
+13,Costa Rica,,2020-03-23,2020-04-13,National
+14,Croatia,Murter,Murter,2020-04-13,Municipality
+15,Cuba,,2020-03-23,2020-04-19,National
+16,Czech Republic,,2020-03-16,2020-04-12,National
+17,Denmark,,2020-03-11,2020-04-13,National
+18,Dominican Republic,,2020-03-19,2020-04-03,National
+19,Ecuador,,2020-03-16,2020-03-31,National
+20,El Salvador,,2020-03-12,2020-04-01,National
+21,Fiji,Lautoka,Lautoka,2020-04-10,City
+22,Fiji,Suva,2020-04-03,2020-04-14,City
+23,Finland,Uusimaa,Uusimaa,2020-04-14,Region
+24,France,,2020-03-17,2020-04-15,National
+25,Germany,Bavaria,Bavaria,2020-04-03,State
+26,Germany,"Freiburg, BW",2020-03-21,2020-04-03,City
+27,Ghana,Accra,Accra,2020-04-14,Metropolitan Area
+28,Ghana,Kumasi,2020-03-30,2020-04-14,Metropolitan Area
+29,Greece,,2020-03-23,2020-04-06,National
+30,Honduras,,2020-03-17,2020-04-12,National
+31,Hungary,,2020-03-28,2020-04-11,National
+32,India,,2020-03-25,2020-04-15,National
+33,Indonesia,Tegal,Tegal,2020-07-25,City
+34,Iraq,,2020-03-22,2020-04-11,National
+35,Ireland,,2020-03-12,2020-04-12,National
+36,Israel,Bnei Brak,Bnei Brak,2020-04-15,City
+37,Italy,,2020-03-09,2020-04-13,National
+38,Jordan,,2020-03-21,2020-04-12,National
+39,Kuwait,,2020-03-14,2020-03-29,National
+40,Lebanon,,2020-03-15,2020-03-29,National
+41,Liberia,Margibi,Margibi,2020-04-14,County
+42,Liberia,Montserrado,2020-03-23,2020-04-14,County
+43,Libya,,2020-03-22,2020-04-20,National
+44,Lithuania,,2020-03-16,2020-04-13,National
+45,Madagascar,Antananarivo,Antananarivo,2020-04-12,City
+46,Madagascar,Toamasina,2020-03-23,2020-04-12,City
+47,Malaysia,,2020-03-18,2020-04-14,National
+48,Montenegro,Tuzi,Tuzi,2020-04-14,Municipality
+49,Morocco,,2020-03-19,2020-04-20,National
+50,Nepal,,2020-03-24,2020-04-07,National
+51,Netherlands,,2020-03-16,2020-04-28,National
+52,New Zealand,,2020-03-26,2020-04-19,National
+53,Nigeria,Abuja,Abuja,2020-04-14,City
+54,Nigeria,Lagos,2020-03-30,2020-04-14,City
+55,Nigeria,Ogun,2020-03-30,2020-04-14,State
+56,Northern Cyprus,,2020-03-30,2020-04-03,National
+57,Norway,,2020-03-12,2020-04-13,National
+58,Oman,Muttrah,Muttrah,2020-04-18,District
+59,Pakistan,Azad Kashmir,Azad Kashmir,2020-04-14,Administrative
+60,Panama,,2020-03-25,2020-04-13,National
+61,Papua New Guinea,,2020-03-24,2020-04-13,National
+62,Paraguay,,2020-03-20,2020-04-12,National
+63,Peru,,2020-03-16,2020-04-11,National
+64,Philippines,Cebu,Cebu,2020-04-14,Province
+65,Philippines,Davao Region,2020-03-19,2020-04-14,Region
+66,Philippines,Luzon,2020-03-15,2020-04-14,Island group
+67,Philippines,Soccsksargen,2020-03-23,2020-04-14,Region
+68,Poland,,2020-03-13,2020-04-12,National
+69,Portugal,,2020-03-19,2020-04-02,National
+70,Qatar,Doha Industrial Area,Doha Industrial Area,2020-04-13,Industrial park
+71,Romania,,2020-03-25,2020-04-14,National
+72,Russia,Moscow,Moscow,2020-04-12,Metropolitan area
+73,Rwanda,,2020-03-21,2020-04-12,National
+74,Samoa,,2020-03-26,2020-04-09,National
+75,Saudi Arabia,Jeddah,Jeddah,2020-04-14,City
+76,Saudi Arabia,Mecca,2020-03-26,2020-04-14,City
+77,Saudi Arabia,Medina,2020-03-26,2020-04-14,City
+78,Saudi Arabia,Qatif,2020-03-09,2020-04-14,Area
+79,Saudi Arabia,Riyadh,2020-03-26,2020-04-14,City
+80,Singapore,,2020-04-07,2020-05-04,National
+81,South Africa,,2020-03-26,2020-04-16,National
+82,Spain,,2020-03-14,2020-04-14,National
+83,Thailand,,2020-03-25,2020-04-30,National
+84,Tunisia,,2020-03-22,2020-04-11,National
+85,United Arab Emirates,,2020-03-26,2020-03-30,National
+86,United Kingdom,,2020-03-24,2020-04-13,National
+87,United States,California,California,2020-03-29,State
+88,United States,"Clark County, NV",2020-03-20,2020-04-20,County
+89,United States,Connecticut,2020-03-23,2020-03-29,State
+90,United States,Illinois,2020-03-21,2020-04-07,State
+91,United States,"Kansas City, KS",2020-03-24,2020-04-23,City
+92,United States,Massachusetts,2020-03-24,2020-04-07,State
+93,United States,Michigan,2020-03-24,2020-04-14,State
+94,United States,New York,2020-03-20,2020-03-29,State
+95,United States,Oregon,2020-03-24,2020-04-14,State
+96,United States,Wisconsin,2020-03-24,2020-04-24,State
+97,Venezuela,,2020-03-17,2020-04-19,National
+98,Zimbabwe,,2020-03-30,2020-04-12,National

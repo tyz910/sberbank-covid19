@@ -2,9 +2,9 @@ import pandas as pd
 
 
 def convert_countries(original_countries_path, confirmed_path, save_path):
-    countries = pd.read_csv(original_countries_path, na_filter=False, index_col='iso_alpha2')
+    countries = pd.read_csv(original_countries_path, na_filter=False, index_col='iso_alpha3')
     countries['name'] = countries['ccse_name']
-    countries = countries.drop(columns=['iso_alpha3', 'iso_numeric', 'official_name', 'ccse_name'])
+    countries = countries.drop(columns=['iso_alpha2', 'iso_numeric', 'official_name', 'ccse_name'])
     countries.index.name = 'country'
 
     df = pd.read_csv(confirmed_path, na_filter=False)

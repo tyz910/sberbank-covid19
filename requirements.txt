@@ -4,3 +4,4 @@ requests==2.23.0
 pandas==1.0.3
 torch==1.4.0
 catalyst==20.3.3
+PyPDF2==1.26.0

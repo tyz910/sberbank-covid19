@@ -8,14 +8,16 @@ AUT,2020-03-16,National
 AZE,2020-03-31,National
 BEL,2020-03-18,National
 BGD,2020-03-26,National
+BLR,2020-04-07,City
 BOL,2020-03-22,National
 BRA,2020-03-17,State
+BRB,2020-03-28,National
 CHE,2020-03-17,National
 CHL,2020-03-19,National
 COL,2020-03-25,National
 CRI,2020-03-23,National
 CUB,2020-03-23,National
-DEU,2020-03-20,State
+DEU,2020-03-23,National
 DNK,2020-03-11,National
 DOM,2020-03-19,National
 DZA,2020-03-23,City
@@ -25,7 +27,7 @@ ESP,2020-03-14,National
 FIN,2020-03-27,Region
 FJI,2020-03-20,City
 FRA,2020-03-17,National
-GBR,2020-03-24,National
+GBR,2020-03-23,National
 GEO,2020-03-31,National
 GHA,2020-03-30,Metropolitan Area
 GRC,2020-03-23,National
@@ -38,7 +40,8 @@ IRL,2020-03-12,National
 IRQ,2020-03-22,National
 ISR,2020-04-02,City
 ITA,2020-03-09,National
-JOR,2020-03-21,National
+JAM,2020-04-15,Parish
+JOR,2020-03-18,National
 JPN,2020-04-07,Prefecture
 KWT,2020-03-14,National
 LBN,2020-03-15,National
@@ -56,7 +59,7 @@ NOR,2020-03-12,National
 NPL,2020-03-24,National
 NZL,2020-03-26,National
 OMN,2020-04-10,Governorate
-PAK,2020-04-01,National
+PAK,2020-03-24,National
 PAN,2020-03-25,National
 PER,2020-03-16,National
 PHL,2020-03-27,Province
@@ -73,9 +76,10 @@ SGP,2020-04-07,National
 SLV,2020-03-12,National
 SMR,2020-03-14,National
 SRB,2020-03-15,National
+SVK,2020-03-16,National
 THA,2020-03-25,National
+TTO,2020-03-17,National
 TUN,2020-03-22,National
-TUR,2020-04-11,National
 UKR,2020-03-17,National
 VEN,2020-03-17,National
 ZAF,2020-03-26,National

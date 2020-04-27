@@ -69,4 +69,6 @@ def read_data(update=False):
     data = data[data['confirmed'] > 0]
     data = data.sort_values(by=['country', 'date']).reset_index(drop=True)
 
+    data = data[data['date'] <= data[data['country'] == 'RU-MOW']['date'].max()]
+
     return countries, data

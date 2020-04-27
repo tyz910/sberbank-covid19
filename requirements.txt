@@ -5,3 +5,4 @@ pandas==1.0.3
 pmdarima==1.5.3
 tqdm==4.45.0
 seaborn==0.10.0
+lightgbm==2.3.1

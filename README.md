@@ -14,3 +14,4 @@ COVID-19 Data Challenge.
         - [Apple](/data/mobility-apple.csv).
         - [Yandex](/data/mobility-yandex.csv) (регионы России).
     - [Даты карантина](/data/quarantine.csv).
+    - [Эмбеддинги](/data/regions_ru_vec.csv) топологии транспортной сети.
